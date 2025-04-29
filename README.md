@@ -47,8 +47,6 @@ npm install
 npm run dev
 ```
 
-The application will be available at http://localhost:5173/
-
 ## How It Works
 
 1. **Data Loading**: The application fetches the Titanic dataset from a public source
